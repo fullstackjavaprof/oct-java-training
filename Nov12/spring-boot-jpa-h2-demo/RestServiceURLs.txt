@@ -1,0 +1,16 @@
+1)http://localhost:8080/addUser
+Input: json format
+
+{
+	"id":"1",
+	"name":"ramu",
+	"email":"ramu@gmail.com"
+}
+
+2)http://localhost:8080/getAllUsers
+
+3)http://localhost:8080/getUser/2
+
+4)http://localhost:8080/updateUser
+
+5)http://localhost:8080/deleteUser/2
