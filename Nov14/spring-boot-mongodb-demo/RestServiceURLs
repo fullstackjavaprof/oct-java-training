@@ -1,0 +1,29 @@
+addItem::::::
+
+http://localhost:8080/addItem?itemId=1&serialNumber=82&name=MongoDB in Action&category=Books
+http://localhost:8080/addItem?itemId=2&serialNumber=20&name=iPhone6&category=Mobiles
+http://localhost:8080/addItem?itemId=3&serialNumber=84&name=Spring in Action&category=Books
+http://localhost:8080/addItem?itemId=4&serialNumber=24&name=Samsung Galaxy&category=Mobiles
+-------------------------------------------------------------------------------
+getItemById:::
+
+http://localhost:8080/getItemById?item=2
+
+-------------------------------------------------------------------------------
+getAllItems:::
+
+http://localhost:8080/getAllItems
+
+-------------------------------------------------------------------------------
+getItem:::
+
+http://localhost:8080/getItem?category=Books
+-------------------------------------------------------------------------------
+deteteItem::::
+
+http://localhost:8080/deteteItem?itemId=1
+-------------------------------------------------------------------------------
+addItem:::
+
+http://localhost:8080/addItem?itemId=5&serialNumber=28&name=Sony&category=Television
+-------------------------------------------------------------------------------
